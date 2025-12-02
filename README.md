@@ -3,30 +3,30 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZmdWd5bDZwdDJyZzBwOXZ5aGxzNmQ2NDV6eGJibDY4b3hsZmc5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Banner">
 </p>
 
-<!-- NOMBRE EN LETRAS A COLORES (COMPLETAMENTE COMPATIBLE CON GITHUB) -->
+<!-- NOMBRE ESTILO "NEÓN SUAVE PROFESIONAL" -->
 <h1 align="center">
-  <span style="color:#ff4d4f;">L</span>
-  <span style="color:#fa8c16;">a</span>
-  <span style="color:#fadb14;">t</span>
-  <span style="color:#52c41a;">á</span>
-  <span style="color:#13c2c2;">n</span>
+  <span style="color:#b3c7ff;">L</span>
+  <span style="color:#c7d6ff;">a</span>
+  <span style="color:#d6e0ff;">t</span>
+  <span style="color:#e2e8ff;">á</span>
+  <span style="color:#edf0ff;">n</span>
   &nbsp;
-  <span style="color:#1890ff;">V</span>
-  <span style="color:#722ed1;">i</span>
-  <span style="color:#ff4d4f;">l</span>
-  <span style="color:#fa8c16;">l</span>
-  <span style="color:#fadb14;">e</span>
-  <span style="color:#52c41a;">g</span>
-  <span style="color:#13c2c2;">a</span>
-  <span style="color:#1890ff;">s</span>
+  <span style="color:#b8c8f8;">V</span>
+  <span style="color:#c7d2fa;">i</span>
+  <span style="color:#d6ddfc;">l</span>
+  <span style="color:#e4e7fd;">l</span>
+  <span style="color:#f1f2ff;">e</span>
+  <span style="color:#d7e5ff;">g</span>
+  <span style="color:#c5d8ff;">a</span>
+  <span style="color:#b3cbff;">s</span>
   &nbsp;
-  <span style="color:#eb2f96;">A</span>
-  <span style="color:#ff85c0;">v</span>
-  <span style="color:#ff4d4f;">e</span>
-  <span style="color:#fa8c16;">l</span>
-  <span style="color:#fadb14;">i</span>
-  <span style="color:#52c41a;">n</span>
-  <span style="color:#13c2c2;">o</span>
+  <span style="color:#c9d5ff;">A</span>
+  <span style="color:#d9e1ff;">v</span>
+  <span style="color:#e8ecff;">e</span>
+  <span style="color:#f2f4ff;">l</span>
+  <span style="color:#dce7ff;">i</span>
+  <span style="color:#c8d8ff;">n</span>
+  <span style="color:#b5caff;">o</span>
 </h1>
 
 <p align="center">
@@ -83,3 +83,7 @@
 alv.oficial123@gmail.com
 
 ---
+
+## ✦ Frase estoica
+
+<p align="center"><i>"El hombre que se conquista a sí mismo es invencible."</i></p>
