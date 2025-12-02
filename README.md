@@ -1,50 +1,90 @@
-# Avelino Latan Villegas
+<!-- Banner animado (puedes cambiar el GIF por otro que te guste) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg1cWRtNWowc3Jhcm42cHZ4cGt5eXlzZ2xvaG9id2Q4Y2g1cGs0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mW05nwEyXLP0Y/giphy.gif" width="600" alt="Banner animado">
+</p>
 
-Estudiante apasionado por la computación, la psicología y las humanidades, con interés en explorar cómo la tecnología, el pensamiento crítico y las filosofías orientales pueden combinarse para crear soluciones más humanas, responsables y eficientes. Me motiva el aprendizaje continuo y el desarrollo de proyectos que integren lógica, creatividad y propósito.
+<!-- Nombre en colores -->
+<h1 align="center">
+  <span style="color:#ff4d4f;">A</span>
+  <span style="color:#fa8c16;">v</span>
+  <span style="color:#fadb14;">e</span>
+  <span style="color:#52c41a;">l</span>
+  <span style="color:#13c2c2;">i</span>
+  <span style="color:#1890ff;">n</span>
+  <span style="color:#722ed1;">o</span>
+  &nbsp;
+  <span style="color:#fa541c;">L</span>
+  <span style="color:#faad14;">a</span>
+  <span style="color:#a0d911;">t</span>
+  <span style="color:#13c2c2;">a</span>
+  <span style="color:#40a9ff;">n</span>
+  &nbsp;
+  <span style="color:#eb2f96;">V</span>
+  <span style="color:#ff85c0;">i</span>
+  <span style="color:#ff4d4f;">l</span>
+  <span style="color:#fa8c16;">l</span>
+  <span style="color:#fadb14;">e</span>
+  <span style="color:#52c41a;">g</span>
+  <span style="color:#13c2c2;">a</span>
+  <span style="color:#1890ff;">s</span>
+</h1>
 
----
-
-## Sobre mí
-
-- Interesado en:  
-  Computación e información, psicología, estoicismo, budismo, taoísmo y literatura.
-- Valores centrales:  
-  Respeto, honestidad, empatía y responsabilidad.
-- Objetivo actual:  
-  Construir proyectos que fortalezcan mis habilidades técnicas y mi pensamiento analítico.
-
----
-
-## Habilidades
-
-- **Programación:** Conceptos fundamentales de desarrollo, algoritmos y estructura lógica.
-- **Computación e información:** Análisis, síntesis y organización de datos.
-- **Humanidades:** Autoconocimiento, pensamiento crítico, interpretación y análisis textual.
-- **Psicología y filosofía:** Aplicación de principios de autocontrol, disciplina y claridad mental.
-
----
-
-## En lo que estoy trabajando
-
-- Desarrollo de proyectos educativos y personales para fortalecer mi base técnica.
-- Lectura y análisis de obras literarias y filosóficas para integrarlas a mi proceso creativo.
-- Exploración de metodologías disciplinadas basadas en el estoicismo y filosofías orientales.
-
----
-
-## Qué encontrarás en este GitHub
-
-- Proyectos introductorios y experimentales.
-- Apuntes, recursos y ejercicios relacionados con computación, filosofía y psicología.
-- Material en constante evolución, orientado a aprendizaje real y aplicable.
+<p align="center">
+  Estudiante interesado en computación, psicología y filosofía, explorando cómo unir
+  <b>tecnología</b>, <b>pensamiento crítico</b> y <b>valores humanos</b>.
+</p>
 
 ---
 
-## Contacto
+## 🔍 Sobre mí
 
-Si quieres colaborar, proponer ideas o discutir sobre tecnología y pensamiento crítico:
+- 🌐 Intereses: computación e información, psicología, estoicismo, budismo, taoísmo y literatura.  
+- 🎯 Valores: respeto, honestidad, empatía y responsabilidad.  
+- 📚 Objetivo actual: fortalecer mis bases en programación y análisis crítico para crear proyectos con propósito.
+
+---
+
+## 🧠 En lo que estoy trabajando
+
+- Proyectos personales para aprender lógica, algoritmos y buenas prácticas.  
+- Lectura y análisis de obras literarias y filosóficas para aplicarlas a mi forma de pensar.  
+- Construir disciplina y claridad mental usando principios del estoicismo y filosofías orientales.
+
+---
+
+## 🛠️ Tecnologías e intereses técnicos
+
+<p align="center">
+  <!-- Íconos (puedes quitar o agregar según lo que vayas aprendiendo) -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github" alt="Tech Icons" />
+</p>
+
+---
+
+## 📂 Qué encontrarás en este GitHub
+
+- 🧪 Proyectos introductorios y experimentales.  
+- 📝 Apuntes y ejercicios de computación, filosofía y psicología.  
+- 🚧 Repositorios en construcción, pensados para aprender de verdad, no solo para “llenar el perfil”.
+
+---
+
+## 🎬 Un poco de movimiento
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpldWxtb2ZlaDg5c3lnYzN0b2RrbWM0bXpwM2Rzcm9wY2ZsaThqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3dzI1NWY2MGJkZnYzMHBkbWgybHdqcmRscGd2Nm0zbjlncjlheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" width="260" alt="Thinking GIF">
+</p>
+
+---
+
+## 📫 Contacto
+
+Si quieres colaborar, proponer ideas o simplemente conversar sobre tecnología y pensamiento crítico:
 
 **Email:**  
-alv.oficial123@gmail.com
+📧 alv.oficial123@gmail.com
 
 ---
+
+> “Primero domínate a ti mismo, luego busca dominar cualquier disciplina.”
