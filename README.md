@@ -3,9 +3,58 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZmdWd5bDZwdDJyZzBwOXZ5aGxzNmQ2NDV6eGJibDY4b3hsZmc5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Banner">
 </p>
 
-<!-- NOMBRE ANIMADO (SVG con rotación real) -->
+<!-- NOMBRE ANIMADO TIPO CARTEL DE DISCOTECA -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AngelCruz01/animated-text-svg/main/rotating-text.svg?text=LATÁN%20VILLEGAS%20AVELINO&color=ff4d4f,fa8c16,fadb14,52c41a,13c2c2,1890ff,722ed1" width="450">
+  <svg width="700" height="180" viewBox="0 0 700 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Degradado de color neón -->
+      <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff4d4f"/>
+        <stop offset="25%" stop-color="#fa8c16"/>
+        <stop offset="50%" stop-color="#fadb14"/>
+        <stop offset="75%" stop-color="#13c2c2"/>
+        <stop offset="100%" stop-color="#722ed1"/>
+      </linearGradient>
+
+      <!-- Brillo externo tipo neón -->
+      <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- Fondo tipo cartel -->
+    <rect x="10" y="10" width="680" height="160" rx="30" ry="30" fill="#050014" stroke="#ff4d4f" stroke-width="3">
+      <animate attributeName="stroke-width" values="2;4;2" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke" values="#ff4d4f;#fa8c16;#fadb14;#13c2c2;#722ed1;#ff4d4f" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Grupo completo del texto con animación de “colgarse” como letrero -->
+    <g filter="url(#neonGlow)">
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+            fill="url(#neonGradient)" font-family="monospace, sans-serif" font-size="30"
+            letter-spacing="3">
+        LATÁN VILLEGAS AVELINO
+      </text>
+
+      <!-- Pequeño parpadeo tipo neón -->
+      <animate attributeName="opacity"
+               values="0.7;1;0.6;1;0.8;1"
+               dur="2.5s"
+               repeatCount="indefinite"/>
+
+      <!-- Movimiento de vaivén como cartel de discoteca -->
+      <animateTransform attributeName="transform"
+                        attributeType="XML"
+                        type="rotate"
+                        values="-4 350 90;4 350 90;-4 350 90"
+                        dur="3s"
+                        repeatCount="indefinite"/>
+    </g>
+  </svg>
 </p>
 
 <p align="center">
