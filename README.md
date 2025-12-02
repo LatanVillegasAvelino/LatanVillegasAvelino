@@ -1,6 +1,6 @@
-<!-- Banner animado (puedes cambiar el GIF por otro que te guste) -->
+<!-- Banner animado relacionado con tecnología -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGg1cWRtNWowc3Jhcm42cHZ4cGt5eXlzZ2xvaG9id2Q4Y2g1cGs0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mW05nwEyXLP0Y/giphy.gif" width="600" alt="Banner animado">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZmdWd5bDZwdDJyZzBwOXZ5aGxzNmQ2NDV6eGJibDY4b3hsZmc5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Banner">
 </p>
 
 <!-- Nombre en colores -->
@@ -55,7 +55,6 @@
 ## 🛠️ Tecnologías e intereses técnicos
 
 <p align="center">
-  <!-- Íconos (puedes quitar o agregar según lo que vayas aprendiendo) -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,github" alt="Tech Icons" />
 </p>
 
@@ -65,26 +64,22 @@
 
 - 🧪 Proyectos introductorios y experimentales.  
 - 📝 Apuntes y ejercicios de computación, filosofía y psicología.  
-- 🚧 Repositorios en construcción, pensados para aprender de verdad, no solo para “llenar el perfil”.
+- 🚧 Repositorios en construcción, pensados para aprender de verdad, no para decoración.
 
 ---
 
-## 🎬 Un poco de movimiento
+## 🎬 Movimiento y energía
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpldWxtb2ZlaDg5c3lnYzN0b2RrbWM0bXpwM2Rzcm9wY2ZsaThqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Coding GIF">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms3dzI1NWY2MGJkZnYzMHBkbWgybHdqcmRscGd2Nm0zbjlncjlheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" width="260" alt="Thinking GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpldWxtb2ZlaDg5c3lnYzN0b2RrbWM0bXpwM2Rzcm9wY2ZsaThqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Coding GIF">
 </p>
 
 ---
 
 ## 📫 Contacto
 
-Si quieres colaborar, proponer ideas o simplemente conversar sobre tecnología y pensamiento crítico:
-
 **Email:**  
 📧 alv.oficial123@gmail.com
 
 ---
-
-> “Primero domínate a ti mismo, luego busca dominar cualquier disciplina.”
